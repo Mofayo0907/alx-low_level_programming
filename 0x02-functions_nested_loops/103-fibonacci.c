@@ -1,7 +1,7 @@
 #include <stdio.h>
 
  /**
- * main-finds and prints the sum of the even-valued terms
+ * main: finds and prints the sum of the even-valued terms
  * followed by a new line
  * Description: computes and prints even numbers < 4,000,000
  * Return: 0
