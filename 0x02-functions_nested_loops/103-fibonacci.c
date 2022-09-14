@@ -1,7 +1,7 @@
 #include <stdio.h>
 
  /**
- * main: finds and prints the sum of the even-valued terms
+ * main - print the first 50 fibonacci numbers, starting with 1 and 2
  * followed by a new line
  * Description: computes and prints even numbers < 4,000,000
  * Return: 0
