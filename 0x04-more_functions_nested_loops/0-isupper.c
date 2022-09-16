@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 /**
  *  * _isupper-evaluate if letter is uppercase
  *   *@c: print int
