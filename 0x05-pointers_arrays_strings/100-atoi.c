@@ -1,20 +1,20 @@
 #include "main.h"
 
 /**
- *  * is_numerical - checks if it is a digit
- *   * @n: number
- *    * Return: 1 or 0
- *     */
+* is_numerical - checks if it is a digit
+* @n: number
+* Return: 1 or 0
+*/
 int is_numerical(unsigned int n)
 {
 	return (n >= '0' && n <= '9');
 }
 
 /**
- *  * _atoi - covert a string to an integer
- *   * *@s: string
- *    * Return: num
- *     */
+* _atoi - covert a string to an integer
+* *@s: string
+* Return: num
+*/
 int _atoi(char *s)
 {
 	unsigned int number, i;
