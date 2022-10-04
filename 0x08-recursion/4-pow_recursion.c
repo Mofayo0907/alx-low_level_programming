@@ -1,5 +1,7 @@
-`
-w_recursion - pow recursion
+#include "main.h"
+
+/**
+ * _pow_recursion - pow recursion
  * @x: integer params
  * @y: integer paramtr
  * Return: recursion
