@@ -4,13 +4,13 @@
 
 
 /**
- *  * _memcpy - copies memory
- *   * @dest: destination
- *    * @src: source
- *     * @n: size of memory to copy
- *      *
- *       * Return: Returns memory copied
- *        */
+ * _memcpy - copies memory
+ * @dest: destination
+ * @src: source
+ * @n: size of memory to copy
+ *
+ * Return: Returns memory copied
+ */
 char *_memcpy(char *dest, char *src, unsigned int n)
 {
 	unsigned int i;
