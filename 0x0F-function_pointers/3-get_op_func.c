@@ -1,4 +1,5 @@
-nclude <stdlib.h>
+#include "3-calc.h"
+#include <stdlib.h>
 
 /**
  * get_op_func - select the correct operation function asked by user
@@ -21,4 +22,3 @@ while (ops[i].op != NULL && *(ops[i].op) != *s)
 		i++;
 return (ops[i].f);
 }
-
