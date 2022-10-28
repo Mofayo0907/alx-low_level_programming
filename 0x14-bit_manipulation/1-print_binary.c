@@ -1,7 +1,3 @@
-/*
- * File: 1-print_binary.c
- */
-
 #include "main.h"
 
 /**
